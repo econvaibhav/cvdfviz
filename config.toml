@@ -1,4 +1,4 @@
-baseURL = "https://color-your-world-demo.netlify.app"
+baseURL = "https://cvdfviz.netlify.app/"
 languageCode = "en"
 title = "Drshyavalokan: Making Data A Shared Experience"
 theme = "color-your-world"
