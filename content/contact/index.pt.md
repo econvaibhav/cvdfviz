@@ -6,11 +6,6 @@ coverAlt        : "Animal marrom pendurado na árvore por Javier Mazzeo."
 sitemapExclude  : true
 ---
 
-Aquele na verdade sou eu.
-
-Você também pode me encontrar em:
-
-{{< social >}}
 
 ---
 
